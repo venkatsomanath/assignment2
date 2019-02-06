@@ -12,7 +12,7 @@ namespace ASSIGNMENT2
         public static string analyze(int s1,int s2,int s3)
         {
 
-            String analyzetriangle = "triangle is not formed with given dimensions \n";
+            String at = "triangle is not formed with given dimensions \n";
 
             if (!(s1 + s2 <= s3 || s1 + s3 <= s2 || s2 + s3 <= s1))
             {
@@ -20,25 +20,25 @@ namespace ASSIGNMENT2
                 if ((s1 == s2) && (s1 == s3))
 
                 {
-                    analyzetriangle = " the given dimensions forms an equilateral triangle  \n";
+                    at = " the given dimensions forms an equilateral triangle  \n";
 
                 }
 
                 else if ((s1 == s2) || (s2 == s3) || (s1 == s3))
 
                 {
-                    analyzetriangle = " the given dimensions forms an isosceles triangle  \n";
+                    at = " the given dimensions forms an isosceles triangle  \n";
                 }
 
                 else
 
                 {
-                    analyzetriangle = "the given dimensions forms an scalene triangle  \n";
+                    at = "the given dimensions forms a scalene triangle  \n";
                 }
 
             }
 
-            return analyzetriangle;
+            return at;
                 
                 }
             }

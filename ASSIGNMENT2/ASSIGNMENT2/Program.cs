@@ -57,8 +57,11 @@ namespace ASSIGNMENT2
                     do
                     {
                         isValid = false;
+
                         Console.WriteLine("enter S3 ");
+
                         isValid = int.TryParse(Console.ReadLine(), out S3);
+
                         if (!isValid || S3 <= 0)
                         {
                             Console.Write(" dimension of S3 is invalid \n");
@@ -68,6 +71,7 @@ namespace ASSIGNMENT2
                     while (!isValid || S3 <= 0);
 
                     AT= Trianglesolver.analyze(S1, S2, S3);
+
                     Console.WriteLine(AT);
 
                 }
