@@ -1,0 +1,10 @@
+C:\Users\somnath\source\repos\ASSIGNMENT2\ASSIGNMENT2\obj\Debug\ASSIGNMENT2.csprojAssemblyReference.cache
+C:\Users\somnath\source\repos\ASSIGNMENT2\ASSIGNMENT2\obj\Debug\ASSIGNMENT2.csproj.CoreCompileInputs.cache
+C:\Users\somnath\source\repos\ASSIGNMENT2\ASSIGNMENT2\bin\Debug\ASSIGNMENT2.exe.config
+C:\Users\somnath\source\repos\ASSIGNMENT2\ASSIGNMENT2\bin\Debug\ASSIGNMENT2.exe
+C:\Users\somnath\source\repos\ASSIGNMENT2\ASSIGNMENT2\bin\Debug\ASSIGNMENT2.pdb
+C:\Users\somnath\source\repos\ASSIGNMENT2\ASSIGNMENT2\obj\Debug\ASSIGNMENT2.exe
+C:\Users\somnath\source\repos\ASSIGNMENT2\ASSIGNMENT2\obj\Debug\ASSIGNMENT2.pdb
+C:\Users\somnath\source\repos\ASSIGNMENT2\ASSIGNMENT2\bin\Debug\nunit.framework.dll
+C:\Users\somnath\source\repos\ASSIGNMENT2\ASSIGNMENT2\bin\Debug\nunit.framework.xml
+C:\Users\somnath\source\repos\ASSIGNMENT2\ASSIGNMENT2\obj\Debug\ASSIGNMENT2.csproj.CopyComplete

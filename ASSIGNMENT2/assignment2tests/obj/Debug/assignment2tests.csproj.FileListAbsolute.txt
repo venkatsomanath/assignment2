@@ -1,0 +1,12 @@
+C:\Users\somnath\source\repos\ASSIGNMENT2\assignment2tests\bin\Debug\assignment2tests.dll
+C:\Users\somnath\source\repos\ASSIGNMENT2\assignment2tests\bin\Debug\assignment2tests.pdb
+C:\Users\somnath\source\repos\ASSIGNMENT2\assignment2tests\bin\Debug\ASSIGNMENT2.exe
+C:\Users\somnath\source\repos\ASSIGNMENT2\assignment2tests\bin\Debug\nunit.framework.dll
+C:\Users\somnath\source\repos\ASSIGNMENT2\assignment2tests\bin\Debug\ASSIGNMENT2.pdb
+C:\Users\somnath\source\repos\ASSIGNMENT2\assignment2tests\bin\Debug\ASSIGNMENT2.exe.config
+C:\Users\somnath\source\repos\ASSIGNMENT2\assignment2tests\bin\Debug\nunit.framework.xml
+C:\Users\somnath\source\repos\ASSIGNMENT2\assignment2tests\obj\Debug\assignment2tests.csprojAssemblyReference.cache
+C:\Users\somnath\source\repos\ASSIGNMENT2\assignment2tests\obj\Debug\assignment2tests.csproj.CoreCompileInputs.cache
+C:\Users\somnath\source\repos\ASSIGNMENT2\assignment2tests\obj\Debug\assignment2tests.csproj.CopyComplete
+C:\Users\somnath\source\repos\ASSIGNMENT2\assignment2tests\obj\Debug\assignment2tests.dll
+C:\Users\somnath\source\repos\ASSIGNMENT2\assignment2tests\obj\Debug\assignment2tests.pdb
