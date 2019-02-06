@@ -20,9 +20,9 @@ namespace assignment2tests
 
 
         [Test]
-        public void test_analyze_scalenetriangle_input_22_34_44()
+        public void test_analyze_scalenetriangle_input_22_35_44()
         {
-            string output = Trianglesolver.analyze(22, 34, 44);
+            string output = Trianglesolver.analyze(22, 35, 44);
             Console.Write(output);
         }
 
